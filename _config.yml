@@ -1,0 +1,9 @@
+title: "IA Climática · San Lorenzo"
+description: "Predicción de la temperatura máxima diaria para San Lorenzo, Paraguay"
+theme: jekyll-theme-architect
+url: "https://diegostapy.github.io"
+baseurl: "/proyectoIA2026"
+lang: es
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
